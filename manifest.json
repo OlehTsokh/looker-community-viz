@@ -1,0 +1,21 @@
+{
+  "name": "Dropdown with Tooltip",
+  "description": "Dropdown filter with hover tooltip",
+  "organization": "My Org",
+  "visualizations": [
+    {
+      "id": "dropdown_tooltip",
+      "label": "Dropdown Tooltip Filter",
+      "visConfig": {
+        "dimensions": [
+          {
+            "id": "dimension",
+            "label": "Field",
+            "required": true
+          }
+        ]
+      }
+    }
+  ]
+}
+
