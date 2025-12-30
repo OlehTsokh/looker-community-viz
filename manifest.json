@@ -13,7 +13,12 @@
             "label": "Field",
             "required": true
           }
-        ]
+        ],
+        "resources": {
+          "html": "index.html",
+          "js": ["script.js"],
+          "css": ["style.css"]
+        }
       }
     }
   ]
